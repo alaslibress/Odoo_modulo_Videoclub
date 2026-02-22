@@ -9,7 +9,7 @@
     "summary": "Modulo de gestion de peliculas para SGE - 2 DAM",
     "description": """
         Modulo Videoclub creado para la asignatura SGE.
-        Permite gestionar peliculas, categorias y compañias cinematograficas.
+        Permite gestionar peliculas, categorias y companias cinematograficas.
         Incluye campos calculados, herencia de modelos y control de permisos.
     """,
     "depends": ["base", "contacts"],
